@@ -1,3 +1,3 @@
-todo
+Todo
 
-LIVE DEMO : https://amitasaurus.github.io/todo
+LIVE DEMO : 
